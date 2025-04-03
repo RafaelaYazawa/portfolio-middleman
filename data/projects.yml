@@ -1,34 +1,20 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+- name: Reacquaint
+  description: ​Platform designed to assist users in crafting superior bids to secure higher-quality work opportunities. By enhancing the bidding process, it aims to increase success rates in competitive environments.
+  image: images/projects/reacquaint.png
+  url: https://www.reacquaint.online
+  github: https://github.com/adi-kotian/reacquaint
+  online: true
+
+- name: Hero Trainer
+  description: ​Platform that connects users with elite training partners for personalized workouts and skill development. It aims to provide individualized instruction, ensuring comfortable and suitable workouts for everyone.
+  image: images/projects/herotrainer.png
+  url: https://hero-trainer-7fa0c2e5c903.herokuapp.com/
+  github: https://github.com/jasonrr19/hero-trainer?tab=readme-ov-file
   online: true
 
 - name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  description: A platform that allows users to create and manage movie lists. It helps organize movies into custom lists, making it easier to track and discover titles.
+  image: images/projects/movies.png
+  url: https://rafaela-ce4cfbf713fa.herokuapp.com/lists
+  github: https://github.com/RafaelaYazawa/rails-watch-list
   online: true
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: false
